@@ -1,0 +1,36 @@
+table {
+  margin: auto;
+}
+
+td, th {
+  width: 40px;
+  height: 40px;
+  color: white;
+}
+
+th {
+  background-color: black;
+}
+
+td {
+  background-color: blue;
+  text-align: center;
+}
+
+#no-mans-land {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: green;
+  height: 100px;
+  margin: 50px 0;
+}
+
+.used {
+  background-color: red;
+}
+
+.win {
+  font-size: 30em;
+  color: fuchsia;
+}
